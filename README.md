@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimgooq)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimgooq)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<!-- - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> -->
 
 ### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
